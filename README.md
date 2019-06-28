@@ -1,5 +1,5 @@
-Algorthm_Interviews - record the algorithm interviews problems
-Author: Liu-Yazhou
+Algorthm_Interviews - record the algorithm interviews problems 
+Author: Liu-Yazhou 
 Date: 2019-6-28
 
 One. 刷刷看 - 推荐算法工程师
