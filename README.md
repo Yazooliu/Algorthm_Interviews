@@ -22,13 +22,6 @@ One. 刷刷看 - 推荐算法工程师
 
 9.编程题： 怎样找到两个字符串中最长公共子子串
 
-
-void FindComMaxStr(string str1,string str2)
-{
-
-
-}
-
 10.编程题：写出一个最大堆的基本操作：ShiftUp/ShiftDown/ExtractMax/堆排序
 
 11.有没有接触过Xgboost?什么是Xgboost?
